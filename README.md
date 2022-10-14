@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ozzy-ZY
 - 👀 I’m interested in ... back-end development and Networks
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... python and CPP
+- 💞️ I’m looking to collaborate on ... my calculus assignments lol
 - 📫 How to reach me ... Zyadhimself1@gamil.com
 
 <!---
